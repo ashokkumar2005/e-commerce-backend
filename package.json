@@ -2,10 +2,16 @@
   "name": "e-commerce",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
+=======
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js",
+>>>>>>> 94a62c41be309c34487cb85cd52f07bc8535974e
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,8 +19,11 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+<<<<<<< HEAD
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
+=======
+>>>>>>> 94a62c41be309c34487cb85cd52f07bc8535974e
     "express": "^5.2.1",
     "mongoose": "^9.5.0"
   }
